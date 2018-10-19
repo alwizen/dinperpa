@@ -27,7 +27,7 @@ body {
 	font-size:14px;
 	font-weight:300;
 	line-height:1.6em;
-	color:#ffffff;
+	color:#292929;
 }
 
 a:active {
@@ -718,7 +718,7 @@ section.callaction {
 
 #content {
 	position:relative;
-	background:#fff;
+	background:#eee;
 	padding:60px 0 40px 0;
 }
 
